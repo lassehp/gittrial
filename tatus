@@ -1,0 +1,95 @@
+[33mcommit 8a823db3d37828bae47d0679f5f6388af85af9c2[m
+Merge: 1b2a6a8 f6c33b5
+Author: Lotte <lotteravn@live.dk>
+Date:   Wed Aug 24 11:47:11 2016 +0200
+
+    Merge branch 'master' of https://github.com/lassehp/gittrial
+
+[33mcommit 1b2a6a8e917a441e005e2c952b2572b55871181d[m
+Author: Lotte <lotteravn@live.dk>
+Date:   Wed Aug 24 11:46:21 2016 +0200
+
+    Text changed in lotteravn
+
+[33mcommit f6c33b586f0074ebeec3f3e64b79f920d1b05e2f[m
+Merge: e4872c1 2920dc5
+Author: hed98bpb <loleparty@yahoo.dk>
+Date:   Wed Aug 24 11:44:20 2016 +0200
+
+    Merge branch 'master' of github.com:lassehp/gittrial
+
+[33mcommit e4872c11f4d65c94bf2a2946c14e14949d35a403[m
+Author: hed98bpb <loleparty@yahoo.dk>
+Date:   Wed Aug 24 11:41:53 2016 +0200
+
+    ny prøvefil
+
+[33mcommit 2920dc536f523e15b4d27eb968ca0ba62805cb96[m
+Merge: b03a2a5 57706c6
+Author: Lotte <lotteravn@live.dk>
+Date:   Wed Aug 24 11:40:30 2016 +0200
+
+    Merge branch 'master' of https://github.com/lassehp/gittrial
+
+[33mcommit 57706c6da7e519232e65a403ef5c998c97574352[m
+Merge: 72be085 4433fda
+Author: hed98bpb <loleparty@yahoo.dk>
+Date:   Wed Aug 24 11:39:33 2016 +0200
+
+    Merge branch 'master' of github.com:lassehp/gittrial
+
+[33mcommit 72be085709442fa6ad7c4dee610e8433e02cca6c[m
+Merge: 919a36e afe1702
+Author: hed98bpb <loleparty@yahoo.dk>
+Date:   Wed Aug 24 11:37:46 2016 +0200
+
+    Merge branch 'master' of github.com:lassehp/gittrial
+
+[33mcommit 4433fdaf412894ca200365598f751f9ecba7a498[m
+Author: lassehp <lhp@lhpl.dk>
+Date:   Wed Aug 24 11:37:38 2016 +0200
+
+    modified branch
+
+[33mcommit 919a36e617f14d7a3810451e71c8950e7ba58001[m
+Author: hed98bpb <loleparty@yahoo.dk>
+Date:   Wed Aug 24 11:34:35 2016 +0200
+
+    this is real art bitchgit statusgit status ;)
+
+[33mcommit b03a2a50a490fc45b6a0dbd19ad1035a392d34b2[m
+Author: Lotte <lotteravn@live.dk>
+Date:   Wed Aug 24 11:31:22 2016 +0200
+
+    lotteravn added
+
+[33mcommit afe1702fe0cb10fd8b497052107dbd4916d69e16[m
+Author: lassehp <lhp@lhpl.dk>
+Date:   Wed Aug 24 11:18:45 2016 +0200
+
+    fix typo
+
+[33mcommit 417d016b6aa255e194afee3f61948fcef82f738f[m
+Merge: 0165ecc e72211d
+Author: lassehp <lhp@lhpl.dk>
+Date:   Wed Aug 24 11:16:47 2016 +0200
+
+    Merge branch 'master' of https://github.com/lassehp/gittrial
+
+[33mcommit 0165ecc9d8c27f13231ccdf9700b780e3bd2f9a0[m
+Author: lassehp <lhp@lhpl.dk>
+Date:   Wed Aug 24 11:15:46 2016 +0200
+
+    added lassehp file
+
+[33mcommit e72211d077768dbb4c986a274f0511e87484f574[m
+Author: hed98bpb <loleparty@yahoo.dk>
+Date:   Wed Aug 24 11:12:49 2016 +0200
+
+    jeg tilføjede noget til din readmed file lasse ;)
+
+[33mcommit d43c2627e7e9976c486c03899331ea385c5230f6[m
+Author: lassehp <lassehp@users.noreply.github.com>
+Date:   Wed Aug 24 11:08:07 2016 +0200
+
+    Initial commit
